@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\UC-03-FindMaxFromThreeInteger.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\UC-03-FindMaxFromThreeInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\UC-03-FindMaxFromThreeInteger.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\UC-03-FindMaxFromThreeInteger.AssemblyInfo.cs
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\UC-03-FindMaxFromThreeInteger.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\bin\Debug\net6.0\UC-03-FindMaxFromThreeInteger.exe
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\bin\Debug\net6.0\UC-03-FindMaxFromThreeInteger.deps.json
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\bin\Debug\net6.0\UC-03-FindMaxFromThreeInteger.runtimeconfig.json
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\bin\Debug\net6.0\UC-03-FindMaxFromThreeInteger.dll
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\bin\Debug\net6.0\UC-03-FindMaxFromThreeInteger.pdb
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\UC-03-FindMaxFromThreeInteger.dll
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\refint\UC-03-FindMaxFromThreeInteger.dll
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\UC-03-FindMaxFromThreeInteger.pdb
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\UC-03-FindMaxFromThreeInteger.genruntimeconfig.cache
+D:\DLS-RFP-231\Generics\UC-03-FindMaxFromThreeInteger\obj\Debug\net6.0\ref\UC-03-FindMaxFromThreeInteger.dll
