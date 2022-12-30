@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\bin\Debug\net6.0\UC-05-FindMaxFromString.exe
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\bin\Debug\net6.0\UC-05-FindMaxFromString.deps.json
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\bin\Debug\net6.0\UC-05-FindMaxFromString.runtimeconfig.json
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\bin\Debug\net6.0\UC-05-FindMaxFromString.dll
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\bin\Debug\net6.0\UC-05-FindMaxFromString.pdb
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\UC-05-FindMaxFromString.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\UC-05-FindMaxFromString.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\UC-05-FindMaxFromString.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\UC-05-FindMaxFromString.AssemblyInfo.cs
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\UC-05-FindMaxFromString.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\UC-05-FindMaxFromString.dll
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\refint\UC-05-FindMaxFromString.dll
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\UC-05-FindMaxFromString.pdb
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\UC-05-FindMaxFromString.genruntimeconfig.cache
+D:\DLS-RFP-231\Generics\UC-05-FindMaxFromString\obj\Debug\net6.0\ref\UC-05-FindMaxFromString.dll
