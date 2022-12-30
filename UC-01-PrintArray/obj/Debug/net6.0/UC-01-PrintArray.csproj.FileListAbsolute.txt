@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\UC-01-PrintArray.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\UC-01-PrintArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\UC-01-PrintArray.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\UC-01-PrintArray.AssemblyInfo.cs
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\UC-01-PrintArray.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\bin\Debug\net6.0\UC-01-PrintArray.exe
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\bin\Debug\net6.0\UC-01-PrintArray.deps.json
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\bin\Debug\net6.0\UC-01-PrintArray.runtimeconfig.json
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\bin\Debug\net6.0\UC-01-PrintArray.dll
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\bin\Debug\net6.0\UC-01-PrintArray.pdb
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\UC-01-PrintArray.dll
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\refint\UC-01-PrintArray.dll
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\UC-01-PrintArray.pdb
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\UC-01-PrintArray.genruntimeconfig.cache
+D:\DLS-RFP-231\Generics\UC-01-PrintArray\obj\Debug\net6.0\ref\UC-01-PrintArray.dll
