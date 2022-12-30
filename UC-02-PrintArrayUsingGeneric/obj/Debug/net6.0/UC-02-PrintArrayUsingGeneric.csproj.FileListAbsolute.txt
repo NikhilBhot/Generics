@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\bin\Debug\net6.0\UC-02-PrintArrayUsingGeneric.exe
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\bin\Debug\net6.0\UC-02-PrintArrayUsingGeneric.deps.json
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\bin\Debug\net6.0\UC-02-PrintArrayUsingGeneric.runtimeconfig.json
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\bin\Debug\net6.0\UC-02-PrintArrayUsingGeneric.dll
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\bin\Debug\net6.0\UC-02-PrintArrayUsingGeneric.pdb
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\UC-02-PrintArrayUsingGeneric.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\UC-02-PrintArrayUsingGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\UC-02-PrintArrayUsingGeneric.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\UC-02-PrintArrayUsingGeneric.AssemblyInfo.cs
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\UC-02-PrintArrayUsingGeneric.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\UC-02-PrintArrayUsingGeneric.dll
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\refint\UC-02-PrintArrayUsingGeneric.dll
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\UC-02-PrintArrayUsingGeneric.pdb
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\UC-02-PrintArrayUsingGeneric.genruntimeconfig.cache
+D:\DLS-RFP-231\Generics\UC-02-PrintArrayUsingGeneric\obj\Debug\net6.0\ref\UC-02-PrintArrayUsingGeneric.dll
