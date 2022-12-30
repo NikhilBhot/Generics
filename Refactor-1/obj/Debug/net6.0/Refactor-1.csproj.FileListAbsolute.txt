@@ -1,0 +1,15 @@
+D:\DLS-RFP-231\Generics\Refactor-1\bin\Debug\net6.0\Refactor-1.exe
+D:\DLS-RFP-231\Generics\Refactor-1\bin\Debug\net6.0\Refactor-1.deps.json
+D:\DLS-RFP-231\Generics\Refactor-1\bin\Debug\net6.0\Refactor-1.runtimeconfig.json
+D:\DLS-RFP-231\Generics\Refactor-1\bin\Debug\net6.0\Refactor-1.dll
+D:\DLS-RFP-231\Generics\Refactor-1\bin\Debug\net6.0\Refactor-1.pdb
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\Refactor-1.csproj.AssemblyReference.cache
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\Refactor-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\Refactor-1.AssemblyInfoInputs.cache
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\Refactor-1.AssemblyInfo.cs
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\Refactor-1.csproj.CoreCompileInputs.cache
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\Refactor-1.dll
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\refint\Refactor-1.dll
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\Refactor-1.pdb
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\Refactor-1.genruntimeconfig.cache
+D:\DLS-RFP-231\Generics\Refactor-1\obj\Debug\net6.0\ref\Refactor-1.dll
